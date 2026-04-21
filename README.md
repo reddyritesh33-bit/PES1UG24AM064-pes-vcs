@@ -616,6 +616,7 @@ Screenshot 1A
 ![Screenshot 1A](screenshots/1A.jpeg)
 
 Screenshot 1B
+
 ![Screenshot 1B](screenshots/1B.jpeg)
 
 Phase - 2
