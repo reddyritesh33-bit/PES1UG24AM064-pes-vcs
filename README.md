@@ -649,9 +649,9 @@ Screenshot 4C
 Phase - 5 
 
 Screenshots 
-![Screenshot Full init 1](screenshots/full_init_1.png)
+![Screenshot Full init 1](screenshots/full_inti_1.png)
  
-![Screenshot Full init 2](screenshots/full_init_2.png)
+![Screenshot Full init 2](screenshots/full_inti_2.png)
 
 ### Branching (Q5.1 – Q5.3)
 
