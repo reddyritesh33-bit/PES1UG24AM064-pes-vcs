@@ -1,8 +1,11 @@
 # Building PES-VCS — A Version Control System from Scratch
 
 OS Orange Problem-2
+
 Name : Bandugula Sai Rithesh Reddy
+
 SRN : PES1UG24AM064
+
 
 **Objective:** Build a local version control system that tracks file changes, stores snapshots efficiently, and supports commit history. Every component maps directly to operating system and filesystem concepts.
 
@@ -609,12 +612,16 @@ Screenshots :
 
 Phase - 1
 
+Screenshot 1A
 ![Screenshot 1A](screenshots/1A.jpeg)
 
+Screenshot 1B
 ![Screenshot 1B](screenshots/1B.jpeg)
 
 Phase - 2
 
+Screenshot 2A
 ![Screenshot 2A](screenshots/2A.jpeg)
 
+Screenshot 2B
 ![Screenshot 2B](screenshots/2B.jpeg)
